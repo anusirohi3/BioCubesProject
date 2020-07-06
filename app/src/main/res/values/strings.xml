@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BiocubesProject</string>
+    <string name="morning">Morning</string>
+    <string name="roxie">Roxie</string>
+    <string name="your_health_is_our_concern">YOUR HEALTH IS OUR CONCERN</string>
+    <string name="lorem_ipsum">Loren ipsum dolor sit amet, consectetur adipiscing elit</string>
+</resources>
